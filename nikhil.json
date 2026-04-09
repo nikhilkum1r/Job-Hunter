@@ -1,0 +1,244 @@
+{
+  "personal_information": {
+    "first_name": "Nikhil",
+    "last_name": "Kumar",
+    "full_name": "Nikhil Kumar",
+    "gender": "Male",
+    "date_of_birth": "",
+    "nationality": "Indian",
+    "marital_status": "Single",
+    "aadhaar_number": "",
+    "pan_number": ""
+  },
+
+  "contact_information": {
+    "email": "nikhilkumar.career@gmail.com",
+    "phone_primary": "+91-6201784889",
+    "phone_secondary": "",
+    "current_location": "New Delhi, India",
+    "willing_to_relocate": true,
+    "address": {
+      "street": "",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "postal_code": "",
+      "country": "India"
+    }
+  },
+
+  "form_ready_fields": {
+    "first_name": "Nikhil",
+    "last_name": "Kumar",
+    "full_name": "Nikhil Kumar",
+    "email": "nikhilkumar.career@gmail.com",
+    "phone_country_code": "+91",
+    "phone_number": "6201784889",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "pincode": "",
+    "current_company": "Spandan Foundation",
+    "current_role": "Technical Lead",
+    "total_experience_years": "2.5",
+    "relevant_experience_years": "2+"
+  },
+
+  "ats_keywords": [
+    "Machine Learning",
+    "Deep Learning",
+    "Cybersecurity",
+    "Penetration Testing",
+    "FastAPI",
+    "Docker",
+    "Android Development",
+    "Kotlin",
+    "PyTorch",
+    "AI Systems",
+    "Network Security",
+    "E2EE Encryption"
+  ],
+
+  "profile_variants": {
+    "ml_engineer": "Machine Learning engineer with experience in deep learning models, NLP, and production AI systems.",
+    "cybersecurity": "Cybersecurity specialist with expertise in ethical hacking, threat detection, and secure system design.",
+    "backend": "Backend developer experienced in building scalable APIs, microservices, and AI-powered systems."
+  },
+
+  "cover_letter_templates": {
+    "default": "I am excited to apply for this role. With experience in AI, cybersecurity, and backend systems, I have built real-world solutions with measurable impact.",
+    "ml_role": "I am particularly interested in this ML role as I have built deep learning systems with 95%+ accuracy using PyTorch and real datasets.",
+    "cybersecurity_role": "With hands-on experience in ethical hacking and threat detection, I am eager to contribute to securing systems at your organization."
+  },
+
+  "online_profiles": {
+    "linkedin": "https://linkedin.com/in/nikhilkum1r",
+    "github": "https://github.com/nikhilkum1r",
+    "portfolio": "",
+    "leetcode": "",
+    "hackerrank": ""
+  },
+
+  "education": [
+    {
+      "institution": "Jawaharlal Nehru University",
+      "degree": "Integrated B.Tech + M.Tech",
+      "field_of_study": "Computer Science and Engineering",
+      "start_year": "2020",
+      "end_year": "2025",
+      "percentage": "63.8%",
+      "coursework": [
+        "Machine Learning",
+        "Cryptography",
+        "Network Security",
+        "Data Structures",
+        "Operating Systems",
+        "Database Systems"
+      ],
+      "thesis": "AI-Powered Webshell Detection System"
+    },
+    {
+      "institution": "M.B.B.L. Inter College",
+      "degree": "12th (PCM)",
+      "year": "2019"
+    }
+  ],
+
+  "work_experience": [
+    {
+      "company": "Spandan Foundation",
+      "role": "Technical Lead & Technology Adviser",
+      "location": "New Delhi",
+      "start_date": "May 2025",
+      "end_date": "Feb 2026",
+      "currently_working": false,
+      "responsibilities": [
+        "Designed and deployed web systems",
+        "Managed backend database",
+        "Handled donor and organization data",
+        "Advised leadership on technology strategy"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "AI-Powered Webshell Detection System",
+      "tech_stack": ["Python", "PyTorch", "FastAPI", "Docker"],
+      "description": "ML-based cybersecurity system with 95%+ accuracy using multiple deep learning models",
+      "github": "https://github.com/nikhilkum1r/WebShell AI"
+    },
+    {
+      "name": "Math Champion Android App",
+      "tech_stack": ["Kotlin", "Local AI"],
+      "description": "Real-time brain training app with AI and multiplayer modes",
+      "play_store": "https://play.google.com/store/apps/details?id=com.mathchampion.game"
+    }
+  ],
+
+  "proof_of_work": {
+    "github_projects": [
+      "https://github.com/nikhilkum1r/WebShell AI"
+    ],
+    "live_projects": [
+      "https://play.google.com/store/apps/details?id=com.mathchampion.game"
+    ],
+    "portfolio_highlights": [
+      "AI system with 95%+ accuracy",
+      "Production Android app",
+      "Serverless encrypted chat system"
+    ]
+  },
+
+  "skills": {
+    "programming_languages": ["Python", "C++", "C", "Kotlin", "JavaScript"],
+    "ml_ai": ["PyTorch", "Scikit-learn", "Word2Vec", "Deep Learning"],
+    "backend": ["FastAPI", "Docker", "MySQL", "PostgreSQL"],
+    "cybersecurity": ["Penetration Testing", "Ethical Hacking", "Network Security"],
+    "tools": ["Git", "Linux", "Android Studio"]
+  },
+
+  "certifications": [
+    {
+      "name": "Certified Ethical Hacker (CEH)",
+      "issuer": "EC-Council",
+      "year": "2024"
+    },
+    {
+      "name": "Google Cybersecurity Professional Certificate",
+      "year": "2024"
+    },
+    {
+      "name": "IBM Cybersecurity Analyst Certificate",
+      "year": "2023"
+    }
+  ],
+
+  "achievements": [
+    "Built AI system with 95%+ accuracy",
+    "Published open-source ML project",
+    "Developed Android app with AI features"
+  ],
+
+  "availability": {
+    "open_to_work": true,
+    "immediate_joiner": true,
+    "interview_availability": "Flexible",
+    "preferred_shift": "Any"
+  },
+
+  "risk_flags": {
+    "has_employment_gap": false,
+    "willing_background_check": true,
+    "willing_nda": true,
+    "has_criminal_record": false
+  },
+
+  "languages": [
+    { "language": "Hindi", "level": "Native" },
+    { "language": "English", "level": "Professional" },
+    { "language": "Bhojpuri", "level": "Native" }
+  ],
+
+  "job_preferences": {
+    "roles": [
+      "Machine Learning Engineer",
+      "Cybersecurity Analyst",
+      "AI Engineer",
+      "Backend Developer"
+    ],
+    "employment_type": ["Full-time"],
+    "remote": true
+  },
+
+  "salary_details": {
+    "current_salary": "25000 INR",
+    "expected_salary": "Negotiable",
+    "notice_period": "Immediate"
+  },
+
+  "answer_snippets": {
+    "introduce_yourself": "I am an ML and cybersecurity engineer with hands-on experience building production systems including AI-based detection tools and Android applications.",
+    "why_switching": "I am looking for opportunities where I can apply my skills in real-world impactful systems and grow in a challenging environment.",
+    "career_goal": "To build intelligent and secure systems that solve real-world problems at scale."
+  },
+
+  "screening_answers": {
+    "why_should_we_hire_you": "I bring a unique combination of AI, cybersecurity, and backend engineering skills with real production experience. I have built and deployed systems with measurable results and focus on practical problem-solving.",
+    "strengths": [
+      "Problem solving",
+      "Fast learning",
+      "System design thinking"
+    ],
+    "weaknesses": [
+      "Tendency to over-focus on perfection"
+    ]
+  },
+
+  "recovery_strategy": {
+    "reapply_after_days": 30,
+    "improve_keywords": true,
+    "track_rejections": true,
+    "retry_with_new_resume": true
+  },
+  "resumePath": "/home/nikhil/Startup/Helper/Nikhil_Resume.pdf"
+}

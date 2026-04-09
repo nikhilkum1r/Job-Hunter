@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+dashboard/node_modules/
+
+# Build outputs
+dist/
+dashboard/dist/
+build/
+
+# Environment variables (Sensitive)
+.env
+*.local
+*.env.*
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Chrome Profiles & Data
+chrome_backup_profile/
+chrome_backup_profile_profile_2/
+horizon_profile/
+
+# Temporary / Scratch files
+scratch/
+package.json.tmp
+*.tmp
+
+# Assets / Media
+screenshots/
+google_test.png
+Nikhil_Resume.pdf

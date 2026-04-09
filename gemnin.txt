@@ -1,0 +1,27 @@
+AIzaSyAC-6NRXp5WqzFmguQPQRnu2MM9pxGB6qw
+
+curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent" \
+  -H 'Content-Type: application/json' \
+  -H 'X-goog-api-key: AIzaSyAC-6NRXp5WqzFmguQPQRnu2MM9pxGB6qw' \
+  -X POST \
+  -d '{
+    "contents": [
+      {
+        "parts": [
+          {
+            "text": "Explain how AI works in a few words"
+          }
+        ]
+      }
+    ]
+  }'
+
+  API key details
+API Key
+AIzaSyAC-6NRXp5WqzFmguQPQRnu2MM9pxGB6qw
+Name
+Helper
+Project name
+projects/76196728094
+Project number
+76196728094
